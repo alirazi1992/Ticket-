@@ -1,0 +1,14 @@
+{
+  "Sidebar": {
+    "title": "Support Panel",
+    "dashboard": "Dashboard",
+    "tickets": "Tickets",
+    "engineers": "Engineers",
+    "settings": "Settings"
+  },
+  "Header": {
+    "title": "Customer Support System",
+    "settings": "Settings",
+    "logout": "Logout"
+  }
+}

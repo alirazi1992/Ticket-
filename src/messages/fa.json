@@ -1,0 +1,14 @@
+{
+  "Sidebar": {
+    "title": "پنل پشتیبانی",
+    "dashboard": "داشبورد",
+    "tickets": "تیکت‌ها",
+    "engineers": "مهندسین",
+    "settings": "تنظیمات"
+  },
+  "Header": {
+    "title": "سامانه پشتیبانی مشتری",
+    "settings": "تنظیمات",
+    "logout": "خروج"
+  }
+}
